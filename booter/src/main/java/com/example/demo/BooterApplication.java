@@ -20,6 +20,6 @@ public class BooterApplication extends SpringBootServletInitializer {
 	}
 	@RequestMapping("/")
 	public String home() {
-		return "你好，亮！";
+		return "你好，f亮！";
 	}
 }
